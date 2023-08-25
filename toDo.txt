@@ -1,0 +1,13 @@
+./bucket list 
+
+menu for:
+Map (Interactive map)
+Database
+    items
+    quests
+    locations
+    bestiary
+Central Market (with the api to check prices)
+Calculator
+    life exp
+    profit maker (items with their prices to deploy)
